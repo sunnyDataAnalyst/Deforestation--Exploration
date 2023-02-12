@@ -17,3 +17,20 @@ In this part i have 5 questions and i need find answer form database.
 
 ### Q.1) What was the total forest area (in sq km) of the world in 1990? Please keep in mind that you can use the country record denoted as “World" in the region table.
 ![image](https://user-images.githubusercontent.com/116772724/218321035-dfbd2c33-0c66-4da7-a955-9cec907c61f5.png)
+
+### Q.2)  What was the total forest area (in sq km) of the world in 2016? Please keep in mind that you can use the country record in the table is denoted as “World.” 
+![image](https://user-images.githubusercontent.com/116772724/218321245-7dfe2d93-018a-4fa2-a109-908148f537fa.png)
+
+### Q.3) What was the change (in sq km) in the forest area of the world from 1990 to 2016?
+![image](https://user-images.githubusercontent.com/116772724/218321332-26a65032-e5b2-4ff3-bf77-1b59daa8fe49.png)
+![image](https://user-images.githubusercontent.com/116772724/218321362-3202339f-5434-48ee-bf69-9cd817b7a726.png)
+
+### Q.4) What was the percent change in forest area of the world between 1990 and 2016?
+![image](https://user-images.githubusercontent.com/116772724/218321587-b7c6019a-1c63-422d-985c-5ce63b11d379.png)
+![image](https://user-images.githubusercontent.com/116772724/218321655-6af7499e-9dcd-46f8-adf3-b3d2b663943e.png)
+
+### Q.5) If you compare the amount of forest area lost between 1990 and 2016, to which country's total area in 2016 is it closest to?
+![image](https://user-images.githubusercontent.com/116772724/218321923-a74db537-b265-496d-bdec-c904f99ffb1b.png)
+![image](https://user-images.githubusercontent.com/116772724/218321953-d7593d9e-7f52-4e9e-82d5-8b5a2226a677.png)
+
+

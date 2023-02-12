@@ -5,3 +5,6 @@ In this project, I do research in 3 different parts based on the data provided.
 3. Country-Level Detail ( I look for the top 5 country that has the highest growth in forest and forest percent devied on Quartile group)
 
 In this all the different parts, they provided questions and I find answers using SQL postgre.
+
+## Step > 1 Create VIEW for data
+![image](https://user-images.githubusercontent.com/116772724/218319924-0b843d2b-91d2-4a05-a285-5698f65e35ea.png)

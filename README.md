@@ -34,6 +34,8 @@ In this part i have 5 questions and i need find answer form database.
 ![image](https://user-images.githubusercontent.com/116772724/218321953-d7593d9e-7f52-4e9e-82d5-8b5a2226a677.png)
 
 
+
+
 ## Part > 2 Regional Outlook
 In Regional outlook I have 3 questions to find answer form given data.
 
@@ -46,6 +48,8 @@ In Regional outlook I have 3 questions to find answer form given data.
 ### Q.3) Based on the table you created, which regions of the world DECREASED in forest area from 1990 to 2016?
 ![image](https://user-images.githubusercontent.com/116772724/218323288-87b7ffc5-cb33-4080-9627-68d881be7ee1.png)
 ![image](https://user-images.githubusercontent.com/116772724/218323334-7dea28fb-a2f0-429f-b825-aff6023b0747.png)
+
+
 
 
 

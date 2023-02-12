@@ -57,6 +57,30 @@ In Regional outlook I have 3 questions to find answer form given data.
 In this section I am working on 5 Questions to find answer form tables.
 
 ### Q.1) Which 5 countries saw the largest amount decrease in forest area from 1990 to 2016? What was the difference in forest area for each?
+![image](https://user-images.githubusercontent.com/116772724/218323897-346406b5-37f1-4d80-96b5-aa320f194cff.png)
+
+![image](https://user-images.githubusercontent.com/116772724/218323940-4b857f00-d85e-4aca-a39e-68d408e39a91.png)
+
+
+### Q.2) Which 5 countries saw the largest percent decrease in forest area from 1990 to 2016? What was the percent change to 2 decimal places for each? 
+![image](https://user-images.githubusercontent.com/116772724/218324122-227049a9-c1a1-49b8-bcdc-aa2bc08fec82.png)
+![image](https://user-images.githubusercontent.com/116772724/218324190-4b614385-7afb-48bc-ba67-6e028ec1b2bb.png)
+
+
+### Q.3) If countries were grouped by percent forestation in quartiles, which group had the most countries in it in 2016?
+![image](https://user-images.githubusercontent.com/116772724/218324347-e77d2aee-3fd6-44c0-89ce-ddcb9a6aa51d.png)
+![image](https://user-images.githubusercontent.com/116772724/218324359-5a5f2adb-7cf2-434d-8562-789dfe81adcd.png)
+
+
+### Q.4) List all of the countries that were in the 4th quartile (percent forest > 75%) in 2016?
+![image](https://user-images.githubusercontent.com/116772724/218324484-ce73cb90-2867-44cb-99a2-aa87f8030927.png)
+![image](https://user-images.githubusercontent.com/116772724/218324496-c11ef64d-153d-4c29-b3c4-5684c23205ac.png)
+
+
+### Q.5) How many countries had a percent forestation higher than the United States in 2016?
+![image](https://user-images.githubusercontent.com/116772724/218324612-40747fe8-6ed7-4552-977e-4f766aaa18d8.png)
+
+![image](https://user-images.githubusercontent.com/116772724/218324664-056a8280-3a04-4dc5-b394-5b4b822b86f7.png)
 
 
 

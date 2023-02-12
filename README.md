@@ -8,3 +8,12 @@ In this all the different parts, they provided questions and I find answers usin
 
 ## Step > 1 Create VIEW for data
 ![image](https://user-images.githubusercontent.com/116772724/218319924-0b843d2b-91d2-4a05-a285-5698f65e35ea.png)
+
+create view create the temporary table in SQL that help us to find the infomation
+![image](https://user-images.githubusercontent.com/116772724/218320067-1272891c-0acf-4ac3-9696-58ba11cb07fe.png)
+
+## Part > 1 Global Situation
+In this part i have 5 questions and i need find answer form database.
+
+### Q.1) What was the total forest area (in sq km) of the world in 1990? Please keep in mind that you can use the country record denoted as “World" in the region table.
+![image](https://user-images.githubusercontent.com/116772724/218321035-dfbd2c33-0c66-4da7-a955-9cec907c61f5.png)

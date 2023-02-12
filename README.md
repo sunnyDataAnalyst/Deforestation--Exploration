@@ -34,3 +34,25 @@ In this part i have 5 questions and i need find answer form database.
 ![image](https://user-images.githubusercontent.com/116772724/218321953-d7593d9e-7f52-4e9e-82d5-8b5a2226a677.png)
 
 
+## Part > 2 Regional Outlook
+In Regional outlook I have 3 questions to find answer form given data.
+
+### Q.1) What was the percent forest of the entire world in 2016? Which region had the HIGHEST percent forest in 2016, and which had the LOWEST, to 2 decimal places?
+![image](https://user-images.githubusercontent.com/116772724/218322552-728191fb-b5d6-4d19-858d-e13725c5fc58.png)
+
+### Q.2) What was the percent forest of the entire world in 1990? Which region had the HIGHEST percent forest in 1990, and which had the LOWEST, to 2 decimal places?
+![image](https://user-images.githubusercontent.com/116772724/218322624-a1b6ba21-03ab-443a-82bf-c76233432629.png)
+
+### Q.3) Based on the table you created, which regions of the world DECREASED in forest area from 1990 to 2016?
+![image](https://user-images.githubusercontent.com/116772724/218323288-87b7ffc5-cb33-4080-9627-68d881be7ee1.png)
+![image](https://user-images.githubusercontent.com/116772724/218323334-7dea28fb-a2f0-429f-b825-aff6023b0747.png)
+
+
+
+## Part > 3 Country-Level Detail
+In this section I am working on 5 Questions to find answer form tables.
+
+### Q.1) Which 5 countries saw the largest amount decrease in forest area from 1990 to 2016? What was the difference in forest area for each?
+
+
+

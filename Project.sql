@@ -14,7 +14,7 @@
 -- 		JOIN land_area l ON f.country_code = l.country_code
 -- 		AND f.year = l.year
 -- 		JOIN regions r ON f.country_code = r.country_code
-);
+--);
 
 -- Part -1 GLOBAL SITUATION
 
